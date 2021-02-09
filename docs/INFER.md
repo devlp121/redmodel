@@ -1,6 +1,8 @@
 # The Inference Guide
 
-## Initialize Docker Container Serving the Saved Model
+## Initialize docker container serving the saved model
+
+Open script and set the path to saved model directory
 
 ```
 bash docker_run.sh
