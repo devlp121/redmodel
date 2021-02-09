@@ -4,7 +4,6 @@
 
 Sentiment Classification of Stress on Social Media Data
 
-TFX implementation can be referenced [here](docs/TFX.md)
 
 ## Documentation
 
@@ -12,6 +11,14 @@ TFX implementation can be referenced [here](docs/TFX.md)
 
 Please see the
 [User Guide](docs/GUIDE.md).
+
+#### TFX Implementation
+
+TFX implementation can be referenced [here](docs/TFX.md)
+
+#### Inference
+
+Inference tasks can be referenced [here](docs/INFER.md)
 
 ### Development References
 
